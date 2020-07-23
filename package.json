@@ -1,0 +1,22 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "Nothing hehe",
+  "main": "app.js",
+  "scripts": {
+    "develop": "nodemon app.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnred/nodeJsPractice.git"
+  },
+  "author": "JONN RED",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonnred/nodeJsPractice/issues"
+  },
+  "homepage": "https://github.com/jonnred/nodeJsPractice#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
